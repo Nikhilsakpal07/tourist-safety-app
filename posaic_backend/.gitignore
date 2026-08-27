@@ -1,0 +1,33 @@
+# Flutter & Dart artifacts
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+android/.gradle/
+android/captures/
+android/gradlew
+android/gradlew.bat
+android/local.properties
+android/GeneratedPluginRegistrant.java
+ios/.symlinks/
+ios/Pods/
+ios/Podfile.lock
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+
+# Python / Backend artifacts
+posaic_backend/venv/
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.env
+
+# General IDE & OS files
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
