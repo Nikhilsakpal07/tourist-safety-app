@@ -1,0 +1,9 @@
+# Python
+backend/venv/
+backend/.venv/
+backend/__pycache__/
+*.pyc
+
+# Flutter
+mobile/.dart_tool/
+mobile/build/
